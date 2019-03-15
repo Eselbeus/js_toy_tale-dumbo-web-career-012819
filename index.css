@@ -97,3 +97,15 @@ button:hover {
   font-family: monospace;
   margin: 3px;
 }
+
+.delete-btn {
+  position: relative;
+  background-color: white;
+  border: solid;
+  border-radius: 5px;
+  height: 2rem;
+  width: max-content;
+  color: black;
+  font-size: 10px;
+  justify-self: center;
+}
